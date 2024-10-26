@@ -8,4 +8,4 @@
 🚀 **Looking For:**
 Exciting opportunities to collaborate on innovative projects that combine my development skills with my accounting background. Let’s create something amazing together!
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/anandukrishna) | [Portfolio](https://yourportfolio.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/anandukrishna) | [Portfolio]()
