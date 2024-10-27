@@ -1,11 +1,19 @@
-👋 Hi there! I'm **Anandu Krishna**, a Full-Stack MERN Developer, PG MCA student, and Tally ERP specialist with 8 years of experience in billing and accounting solutions. I also have 4 months of hands-on experience with Python.
+# 👋 Hello! I'm Anandu Krishna
 
-🌟 **What I Do:**
-- Mastering the MERN stack (MongoDB, Express.js, React, Node.js) to create dynamic web applications.
-- Leveraging my extensive experience in Tally ERP to enhance billing processes and improve financial reporting.
-- Gaining proficiency in Python for versatile programming applications.
+I'm a **Full-Stack MERN Developer**, a **PG MCA student**, and a **Tally ERP specialist** with **8 years** of experience in billing and accounting solutions. I also have **4 months** of hands-on experience with **Python**.
 
-🚀 **Looking For:**
-Exciting opportunities to collaborate on innovative projects that combine my development skills with my accounting background. Let’s create something amazing together!
+## 🌟 What I Do:
+- **MERN Stack Mastery**: Building dynamic web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**.
+- **Tally ERP Expertise**: Enhancing billing processes and improving financial reporting through extensive experience in Tally ERP.
+- **Python Proficiency**: Developing versatile programming applications with Python.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/anandukrishna) | [Portfolio]()
+## 🚀 Looking For:
+I'm excited about opportunities to collaborate on innovative projects that combine my development skills with my accounting background. Let’s create something amazing together!
+
+## 📫 Connect with Me:
+- **LinkedIn**: [Anandu Krishna](https://www.linkedin.com/in/anandu-krishnapa2000)
+- **Portfolio**: [My Simple Portfolio](https://anandukrishnapa.w3spaces.com/)
+- **YouTube Channel**: [Who Is Anandu](https://www.youtube.com/channel/UCIT7s1D74inznfkAeia9Pcg)
+- **Buy My Source Code**: [Topmate](https://topmate.io/anandu_krishna_p_a)
+
+Feel free to reach out for collaborations, inquiries, or just a chat!
