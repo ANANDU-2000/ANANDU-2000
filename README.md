@@ -7,7 +7,7 @@ I am an **Aspiring Machine Learning Engineer** with a strong foundation in **sup
 - **PeerLearn (MCA Main Project):** AI-driven mentor-matching platform using recommendation systems.  
 - **AI Automation:** Building AI agents with **n8n** for data collection & ML dataset optimization.  
 - **ML Intern at ATEES:** Applying ML concepts to real-world business problems.  
-- **Self-learning:** Deepening knowledge in **Unsupervised Learning, Reinforcement Learning, and Deep Learning** via Coursera.
+- **Coursera:** Deepening knowledge in **Unsupervised Learning, Reinforcement Learning, and Deep Learning** via Coursera.
 
 ## 🛠️ Skills & Technologies:
 - **Machine Learning:** Supervised Learning, Recommendation Systems, Feature Engineering  
